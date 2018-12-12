@@ -3,6 +3,6 @@ please check the below link and follow steps
 https://docs.aws.amazon.com/ses/latest/DeveloperGuide/dashboardcreateSNStopic.html
 
 We can automate these steps with CloudFormation 
-
+please download the cloudformation template from this repository
 
 
